@@ -1,0 +1,10 @@
+.textarea{
+  margin-top: 200px;
+  width: 800px;
+  height: 300px;
+}
+.button{
+  display: block;
+  margin-left: 80%;
+  margin-top: 20px;
+}
