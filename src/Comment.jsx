@@ -7,7 +7,7 @@ class Comment extends React.Component {
     this.clear = this.clear.bind(this)
   }
   clear() {
-    this.textarea.value = ''
+    this.textarea.value = null
   }
   render() {
     return (
